@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    display: inline-block;
+}
+
+.agrupar{
+    background: #fffbb9;
+    color:black;
+    width:400px;
+    margin: auto;
+    text-align: left;
+    padding: 15px 25px;
+    border: 2px solid red;
+}
+
